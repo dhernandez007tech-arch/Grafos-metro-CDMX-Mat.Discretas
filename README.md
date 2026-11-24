@@ -17,20 +17,7 @@ Este repositorio contiene dos programas en Python que representan la red del Met
 - **Grado:** indica cuántas conexiones directas tiene una estación.
 
 ## Instalación
-
 Se recomienda utilizar Python 3.10 o posterior.
-
-Instala las dependencias con:
-
-```bash
-pip install -r requirements.txt
-```
-
-También puedes instalarlas directamente:
-
-```bash
-pip install networkx matplotlib
-```
 
 ## Ejecución
 
@@ -49,9 +36,7 @@ python red_metro_cdmx.py
 Cada programa muestra información del grafo y genera una visualización. Las imágenes se guardan en la misma carpeta donde se ejecuta el programa.
 
 ## Nota
-
-Las coordenadas y los colores de la visualización son aproximados y se utilizan para representar gráficamente la distribución de las estaciones. Este proyecto es un modelo académico de la red mediante teoría de grafos; no es un sistema oficial de navegación ni de información en tiempo real.
+Las coordenadas y los colores de la visualización son aproximados y se utilizan para representar gráficamente la distribución de las estaciones. No es un sistema oficial de navegación ni de información en tiempo real.
 
 ## Uso de inteligencia artificial
-
 La IA ayudó a organizar y depurar el código, ajustar las coordenadas y los estilos de las gráficas, y revisar posibles inconsistencias en las estructuras de datos.
