@@ -32,6 +32,13 @@ Para ejecutar el modelo de toda la red:
 ```bash
 python red_metro_cdmx.py
 ```
+## Grafo de la Línea 3
+
+![Grafo de la Línea 3](assets/img/linea3.png)
+
+## Red completa del Metro CDMX
+
+![Red completa del Metro CDMX](assets/img/red_metro.png)
 
 Cada programa muestra información del grafo y genera una visualización. Las imágenes se guardan en la misma carpeta donde se ejecuta el programa.
 
