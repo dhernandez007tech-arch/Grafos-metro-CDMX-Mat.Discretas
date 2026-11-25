@@ -1,6 +1,6 @@
 # Modelos del Metro de la Ciudad de México con NetworkX
 
-Este repositorio contiene dos programas en Python que representan la red del Metro CDMX mediante grafos.
+Este repositorio contiene dos programas que representan la red del Metro de la CDMX mediante grafos.
 
 ## Archivos
 
