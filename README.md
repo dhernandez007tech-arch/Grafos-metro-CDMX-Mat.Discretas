@@ -16,22 +16,12 @@ Este repositorio contiene dos programas en Python que representan la red del Met
 - **Atributos:** almacenan información adicional de las estaciones y conexiones.
 - **Grado:** indica cuántas conexiones directas tiene una estación.
 
-## Instalación
-Se recomienda utilizar Python 3.10 o posterior.
+## Ejecución en Google Colab
 
-## Ejecución
+El proyecto puede ejecutarse directamente desde Google Colab, sin necesidad de instalar Python ni configurar un entorno local.
 
-Para ejecutar el modelo de la Línea 3:
+[**Abrir notebook en Google Colab**](https://colab.research.google.com/drive/1S5vljgVhUu6Wg2yJKitBaVvCpqvCKdmj?usp=sharing)
 
-```bash
-python linea3_metro.py
-```
-
-Para ejecutar el modelo de toda la red:
-
-```bash
-python red_metro_cdmx.py
-```
 ## Grafo de la Línea 3
 
 ![Grafo de la Línea 3](assets/img/linea3.png)
